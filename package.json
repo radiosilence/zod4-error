@@ -1,0 +1,16 @@
+{
+	"name": "zod4-error",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"typecheck": "tsc -p tsconfig.json"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"typescript": "^5.8.3",
+		"zod": "^4.0.0-beta.20250424T163858"
+	}
+}

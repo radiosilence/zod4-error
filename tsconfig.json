@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "outDir": "dist",
+    "baseUrl": ".",
+    "target": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "pretty": true,
+    "noEmit": true,
+    "noFallthroughCasesInSwitch": false,
+    "noImplicitReturns": false,
+    "forceConsistentCasingInFileNames": true
+  }
+}
